@@ -1,4 +1,4 @@
-# face-mask-detection-keras
+# face mask detection
 
 This repository contains the source code and resources for building a real-time face mask detection system using Convolutional Neural Networks (CNN) with TensorFlow and OpenCV. The system is designed to detect whether individuals are wearing face masks in images or live video streams, contributing to public health and safety measures during the COVID-19 pandemic.
 
